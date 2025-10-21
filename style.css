@@ -32,3 +32,35 @@ body {
   color: var(--text-primary);
   font: var(--text);
 }
+
+main {
+  margin: 88px auto;
+  max-width: 1120px;
+}
+
+img {
+  border: 28px;
+  width: 100%;
+}
+
+h1 {
+  font: var(--h1);
+}
+
+h2 {
+  font: var(--h2);
+}
+
+h3 {
+  font: var(--h3);
+}
+
+h4 {
+  font: var(--headline);
+  color: var(--text-headline);
+  text-transform: uppercase;
+}
+
+p {
+  color: var(--text-secondary);
+}
