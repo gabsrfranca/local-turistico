@@ -56,6 +56,32 @@ header {
   }
 }
 
+#artigos {
+  margin-block: 64px 40px;
+
+  & header {
+    margin-bottom: 64px;
+
+    & h2 {
+      margin-block: 2px 8px;
+    }
+  }
+
+  & article {
+    margin-bottom: 48px;
+
+    & img {
+      height: 350px;
+      object-fit: cover;
+      margin-bottom: 20px;
+    }
+
+    & p {
+      margin-top: 4px;
+    }
+  }
+}
+
 img {
   border-radius: 28px;
   width: 100%;
@@ -71,6 +97,7 @@ h2 {
 
 h3 {
   font: var(--h3);
+  margin-left: 10px;
 }
 
 h4 {
@@ -81,6 +108,14 @@ h4 {
 
 p {
   color: var(--text-secondary);
+}
+
+li {
+  margin-left: 25px;
+}
+
+li::marker {
+  color: #333333;
 }
 
 .divider {
