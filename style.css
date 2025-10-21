@@ -82,6 +82,15 @@ header {
   }
 }
 
+#description {
+  text-align: center;
+  margin-block: 40px 65px;
+}
+
+footer {
+  text-align: center;
+}
+
 img {
   border-radius: 28px;
   width: 100%;
