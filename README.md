@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Página de Receita é uma página com uma receita de cupcake feita como parte da formação Full-Stack da Rocketseat.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://gabsrfranca.github.io/local-turistico/)
 
 ---
 
